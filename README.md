@@ -35,7 +35,9 @@ Confusion Matrix: [[7382   570] [  567   524]]
 
 ## 📂Files
 -'Task3.ipynb-Colab.pdf': Python code to train and evaluate the model.
+
 -`bank-full.csv`: Dataset (UCI Bank Marketing)
+
 -`README.md`: Project documentation
 
 
